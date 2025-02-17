@@ -60,13 +60,13 @@ interface SocialProps {
 
 const socials: SocialItem[] = [
 
-    { icon: <FaGithub />, path: "https://github.com/yourusername" },
+    { icon: <FaGithub />, path: "https://github.com/antfats" },
 
     { icon: <FaLinkedinIn />, path: "https://linkedin.com/in/yourusername" },
 
-    { icon: <FaYoutube />, path: "https://youtube.com/yourchannel" },
+    // { icon: <FaYoutube />, path: "https://youtube.com/yourchannel" },
 
-    { icon: <FaTwitter />, path: "https://twitter.com/yourusername" },
+    // { icon: <FaTwitter />, path: "https://twitter.com/yourusername" },
 
 ];
 
