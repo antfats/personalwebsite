@@ -28,7 +28,7 @@
 
 import React from "react";
 
-import { FaGithub, FaLinkedinIn, FaYoutube, FaTwitter } from "react-icons/fa";
+import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 
 import Link from "next/link";
 import { JSX } from "react/jsx-runtime";
