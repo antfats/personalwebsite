@@ -2,7 +2,7 @@
 import { Button } from "@/components/ui/button";
 import { FiDownload } from "react-icons/fi";
 import Social from "@/components/Social";
-import { FaHome } from 'react-icons/fa';
+// import { FaHome } from 'react-icons/fa';
 import Photo from "@/components/Photo";
 import Stats from "@/components/Stats";
 
