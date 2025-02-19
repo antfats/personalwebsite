@@ -7,19 +7,19 @@ const services = [
     {
         num: "01",
         title: "Penetration Testing",
-        description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut, sequi alias nesciunt accusantium praesentium reprehenderit repellendus cumque aliquam. Id laborum possimus reprehenderit dolor odio autem omnis mollitia velit voluptas cupiditate?",
+        description: "I help businesses strengthen their cybersecurity by identifying vulnerabilities through ethical hacking and security assessments. I simulate real-world attacks to test system defenses, ensure compliance, and provide actionable insights to enhance security and protect sensitive data.",
         href: ""
     },
     {
         num: "02",
-        title: "Penetration Testing",
-        description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut, sequi alias nesciunt accusantium praesentium reprehenderit repellendus cumque aliquam. Id laborum possimus reprehenderit dolor odio autem omnis mollitia velit voluptas cupiditate?",
+        title: "IT Support / QA Testing",
+        description: "I ensure software quality through functional, regression, and performance testing while troubleshooting IT network issues to maintain secure, efficient operations. I work in Agile environments, identifying defects and optimizing system performance to help businesses deliver reliable software and IT solutions.",
         href: ""
     },
     {
         num: "03",
-        title: "Penetration Testing",
-        description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut, sequi alias nesciunt accusantium praesentium reprehenderit repellendus cumque aliquam. Id laborum possimus reprehenderit dolor odio autem omnis mollitia velit voluptas cupiditate?",
+        title: "Digital Marketing",
+        description: "I help businesses grow their online presence through SEO, content marketing, social media, and targeted advertising. I develop data-driven strategies to increase visibility, drive engagement, and convert leads into customers, ensuring brands reach the right audience effectively.",
         href: ""
     },
 ];
