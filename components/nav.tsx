@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
+
 const links = [
     {
         name: "home",
@@ -16,10 +17,10 @@ const links = [
         name: "experience",
         path: "/experience",
     },
-    {
-        name: "work",
-        path: "/work",
-    },
+    // {
+    //     name: "work",
+    //     path: "/work",
+    // },
     {
         name: "contact",
         path: "/contact",
