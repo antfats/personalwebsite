@@ -11,7 +11,7 @@ const stats = [
     },
     {
         num: 6,
-        text: "Applications/Instruments"
+        text: "Applications"
     },
     {
         num: 12,
